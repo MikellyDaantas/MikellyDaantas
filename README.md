@@ -8,8 +8,6 @@ Tenho experiência com linguagens como **C, C++, C#, PHP, JavaScript, TypeScript
 
 Em sala de aula, incentivo o **pensamento crítico, a autonomia e a criatividade na resolução de problemas**, formando profissionais preparados para atuar com **propósito e inovação**.
 
-Paralelamente, sou parceira da **Tehagá**, empresa especializada em marketing por meio de experiências corporativas. Compartilho conteúdos sobre **tecnologia e educação** em minhas redes, promovendo a **construção colaborativa do conhecimento** e inspirando novas jornadas profissionais.
-
 ---
 
 ## 🚀 Tecnologias que uso no dia a dia:
