@@ -25,5 +25,5 @@ Em sala de aula, incentivo o **pensamento crítico, a autonomia e a criatividade
 ## 📲 Vamos nos conectar?
 
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/promikelly_dantas/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mirnamikellydantasdejesus@gmail.com)  
+[![Gmail    ](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mirnamikellydantasdejesus@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikelly-dantas/)
